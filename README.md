@@ -51,7 +51,7 @@ The core advantage of NOMA is to improve spectrum efficiency and system capacity
     - 地理位置距离基站：200 m
     - 设备天线增益：12 dBi
     - 需求数据率：5 Mbps
-    - 信道增益：-110 dB
+    - 信道增益：-105 dB
   - **用户3**（Jammer）：
     - 地理位置距离基站：150 m
     - 设备天线增益：13 dBi
@@ -63,12 +63,12 @@ The core advantage of NOMA is to improve spectrum efficiency and system capacity
     - 地理位置距离基站：500 m
     - 设备天线增益：10 dBi
     - 需求数据率：3 Mbps
-    - 信道增益：-120 dB
+    - 信道增益：-115 dB
   - **用户5**（低需求数据用户）：
     - 地理位置距离基站：700 m
     - 设备天线增益：20 dBi
     - 需求数据率：1 Mbps
-    - 信道增益：-130 dB
+    - 信道增益：-120 dB
   - **用户6**（Jammer）：
     - 地理位置距离基站：550 m
     - 设备天线增益：11 dBi
@@ -77,7 +77,7 @@ The core advantage of NOMA is to improve spectrum efficiency and system capacity
 
 #### 系统参数和目标：
 
-- 卫星下行链路总功率：25 Watts
+- 卫星下行链路总功率：15-40 Watts
 - 噪声功率谱密度：-174 dBm/Hz
 - 系统带宽：20 MHz
 - 路径损耗模型：自由空间路径损失模型
