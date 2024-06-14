@@ -35,7 +35,7 @@ Select an anti-eavesdropping user from the NOMA user group as a Jammer (jammer),
 
 The core advantage of NOMA is to improve spectrum efficiency and system capacity, especially when the number of users is large.
 
-### 仿真应用场景
+<!-- ### 仿真应用场景
 
 通过引入一个反窃听用户作为Jammer来增加通信的安全性，在每个簇中配置三个用户，其中一个用户将充当干扰机（Jammer）的角色。
 
@@ -179,6 +179,6 @@ The core advantage of NOMA is to improve spectrum efficiency and system capacity
 - **功率分配的目标函数**：利用天线增益和信道增益计算每个用户的接收功率，进而计算SINR和数据率，以确保每个用户的需求数据率得到满足。
 - **优化过程**：通过PSO算法搜索功率分配的最优解，使得系统的总体性能最优化，如最大化总数据率或最大化安全容量，同时考虑到每个用户的服务质量需求。
 
-通过对这些参数的精确计算和合理应用，可以有效地设计出一个既考虑实际通信环境又满足用户需求的功率分配策略。这不仅提高了系统的效率，还能保障用户体验和系统的公平性。
+通过对这些参数的精确计算和合理应用，可以有效地设计出一个既考虑实际通信环境又满足用户需求的功率分配策略。这不仅提高了系统的效率，还能保障用户体验和系统的公平性。 -->
 
 
